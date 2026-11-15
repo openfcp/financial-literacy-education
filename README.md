@@ -76,17 +76,27 @@
 
 ## 安装使用
 
+发布英文名（GitHub 与 SkillHub 统一）：`financial-literacy-education`
+
+**SkillHub**：
+
+```
+skillhub install financial-literacy-education
+```
+
+**GitHub**：<https://github.com/openfcp/financial-literacy-education>（public，main 分支）。
+
+```
+git clone https://github.com/openfcp/financial-literacy-education.git
+```
+
 **本机用户级安装**：将本目录复制到 WorkBuddy 用户级技能目录，重启会话后直接用触发词调用。
 
 ```
 ~/.workbuddy/skills/financial-literacy-education/
 ```
 
-**WorkBuddy / SkillHub 发布**：上传 `financial-literacy-education-skillhub.zip`（纯 Skill 目录，不含 `.git`），图标使用根目录 `_icon.png`（512×512 PNG）。
-
-**Git 发布**：本目录即独立仓库，推送到 `https://github.com/openfcp/financial-literacy-education.git`。发布前确认仓库内不含本地绝对路径、临时数据与未脱敏案例。
-
-**专家包形态（可选）**：`financial-literacy-education-expert.zip` 含 `.codebuddy-plugin/plugin.json`、`agents/`、`avatars/expert.png` 与 `skills/`，适用于 WorkBuddy 专家中心上架。
+**离线包**：`financial-literacy-education.zip`（纯 Skill 目录，不含 `.git`），图标使用根目录 `_icon.png`（512×512 PNG）。发布前确认仓库内不含本地绝对路径、临时数据与未脱敏案例。
 
 ## 图标
 

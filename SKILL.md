@@ -1,7 +1,12 @@
 ---
 name: financial-literacy-education
+slug: financial-literacy-education
 display_name: 金融宣教
-display_name_en: Financial Literacy Education
+display_name_en: financial-literacy-education
+displayName: financial-literacy-education
+summary: 金融机构教育宣传岗全流程作业规范：年度计划、活动策划、内容创作、效果评估
+tags: [金融宣教, 消费者权益保护, 金融知识普及, 教育宣传, 消保, 五进入, 以案说险]
+homepage: https://github.com/openfcp/financial-literacy-education
 description: 金融机构消费者权益保护「教育宣传岗」全流程作业规范。当任务涉及以下任一情形时加载：制定年度金融教育宣传工作计划或修订《金融知识宣传教育管理办法》；策划 3·15、9月金融教育宣传月等集中式宣教活动、建设网点宣教专区/线上专栏、组织"五进入"与厅堂微沙龙；创作金融知识普及内容（大白话科普、以案说险、风险提示文案、短视频脚本、海报/漫画生成提示词、H5 与互动问答）；统计宣教覆盖数据、撰写季度/年度宣教效果评估报告、编制优秀案例集与投诉关联分析。提供四角色路由、知识库检索策略、链式编排、交付物模板与命名规范。关键词：金融宣教、教育宣传、金融知识普及、年度宣教计划、宣教管理办法、3·15、金融教育宣传月、五进入、宣教专区、厅堂微沙龙、以案说险、风险提示、短视频脚本、宣传海报、提示词、覆盖人次、宣教效果评估、宣教台账。
 description_zh: 金融机构消费者权益保护教育宣传岗的专业技能模块。覆盖体制机制管理（年度计划双格式、管理办法五环节、预算与业务全流程嵌入）、活动组织策划（集中活动、线上线下阵地、五进入、监管报送）、内容创作（知识"翻译"、风险提示文案、先故事后分镜的短视频脚本、图像生成提示词）、效果评估（过程/结果指标、数据对比归因、评估报告与案例沉淀）四类工作。
 description_en: A professional skill for the financial-education and publicity function in financial institutions. Covers annual education plans and management policies, campaign planning for 3·15 and the September Financial Education Month, on-site and online education zones, "five-entry" outreach, plain-language financial content, risk alerts, short-video scripts and image-generation prompts, and quantitative evaluation reports on reach and effectiveness. Provides four-role routing, knowledge-base-first retrieval, chained orchestration, deliverable templates and naming conventions.

@@ -29,7 +29,7 @@
 | `icon.svg` | 512×512 矢量源文件 | 主图标可编辑源文件 |
 | `logo-mark.svg` | 512×512 矢量，纯图形无文字 | 头像、favicon、物料角标 |
 | `logo-horizontal.svg` | 1200×320 矢量，白底横版 | README 页眉、文档抬头、宣传物料落款 |
-| `avatar-512.png` | 512×512 PNG，纯图形 | 专家包头像 `avatars/expert.png` |
+| `avatar-512.png` | 512×512 PNG，纯图形 | 头像、favicon、社群头像 |
 | `logo-horizontal.png` | 1200×320 PNG | 横版位图备份 |
 | `render_icon.py` | Python 3 + Pillow | 一键复现以上三张 PNG（4× 超采样抗锯齿） |
 
