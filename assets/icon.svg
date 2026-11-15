@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="金融宣教 Financial Literacy Education">
+  <title>金融宣教 · Financial Literacy Education</title>
+  <desc>深蓝底白色扁平剪影：翻开的书本之上浮起一枚带人民币符号的圆币，中间三道渐短的知识传播线；下方为中英文名称。</desc>
+
+  <!-- 背景：取自参考图 2816.JPG 的主蓝 #071789 -->
+  <rect width="512" height="512" fill="#071789"/>
+
+  <!-- 圆币：金融属性 -->
+  <circle cx="256" cy="142" r="70" fill="#FFFFFF"/>
+  <!-- 人民币符号 ¥：以背景蓝作负空间挖空 -->
+  <g fill="none" stroke="#071789" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M226 108 L256 148 L286 108"/>
+    <path d="M256 148 L256 186"/>
+    <path d="M224 154 L288 154"/>
+    <path d="M224 172 L288 172"/>
+  </g>
+
+  <!-- 知识传播线：由书本向上升起，渐短 -->
+  <g stroke="#FFFFFF" stroke-width="8" stroke-linecap="round">
+    <path d="M228 226 L284 226"/>
+    <path d="M237 236 L275 236"/>
+    <path d="M245 246 L267 246"/>
+  </g>
+
+  <!-- 翻开的书：教育普及属性；中间 V 形留蓝形成书脊 -->
+  <path d="M249 306 C208 276, 146 258, 92 258 L92 304 C150 304, 208 320, 249 346 Z" fill="#FFFFFF"/>
+  <path d="M263 306 C304 276, 366 258, 420 258 L420 304 C362 304, 304 320, 263 346 Z" fill="#FFFFFF"/>
+  <!-- 书页上的文字行：用背景蓝挖出 -->
+  <g fill="none" stroke="#071789" stroke-width="7" stroke-linecap="round">
+    <path d="M118 276 L204 292"/>
+    <path d="M118 292 L204 308"/>
+    <path d="M394 276 L308 292"/>
+    <path d="M394 292 L308 308"/>
+  </g>
+
+  <!-- 名称 -->
+  <text x="256" y="422" text-anchor="middle"
+        font-family="PingFang SC, Hiragino Sans GB, Heiti SC, sans-serif"
+        font-size="58" font-weight="700" fill="#FFFFFF">金融宣教</text>
+  <text x="256" y="458" text-anchor="middle" letter-spacing="2"
+        font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+        font-size="15" font-weight="600" fill="#FFFFFF" opacity="0.82">FINANCIAL LITERACY EDUCATION</text>
+</svg>

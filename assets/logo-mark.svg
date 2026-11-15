@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="金融宣教 图形标志">
+  <title>金融宣教 · 图形标志（无文字）</title>
+  <desc>可用于头像、favicon、物料角标。深蓝 #071789 与纯白两色，图形居中放大。</desc>
+
+  <rect width="512" height="512" fill="#071789"/>
+
+  <!-- 将 icon.svg 的图形组以 (256,209) 为中心放大 1.15 倍并居中 -->
+  <g transform="translate(-38.4, 15.65) scale(1.15)">
+    <circle cx="256" cy="142" r="70" fill="#FFFFFF"/>
+    <g fill="none" stroke="#071789" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M226 108 L256 148 L286 108"/>
+      <path d="M256 148 L256 186"/>
+      <path d="M224 154 L288 154"/>
+      <path d="M224 172 L288 172"/>
+    </g>
+    <g stroke="#FFFFFF" stroke-width="8" stroke-linecap="round">
+      <path d="M228 226 L284 226"/>
+      <path d="M237 236 L275 236"/>
+      <path d="M245 246 L267 246"/>
+    </g>
+    <path d="M249 306 C208 276, 146 258, 92 258 L92 304 C150 304, 208 320, 249 346 Z" fill="#FFFFFF"/>
+    <path d="M263 306 C304 276, 366 258, 420 258 L420 304 C362 304, 304 320, 263 346 Z" fill="#FFFFFF"/>
+    <g fill="none" stroke="#071789" stroke-width="7" stroke-linecap="round">
+      <path d="M118 276 L204 292"/>
+      <path d="M118 292 L204 308"/>
+      <path d="M394 276 L308 292"/>
+      <path d="M394 292 L308 308"/>
+    </g>
+  </g>
+</svg>
