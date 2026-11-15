@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo-horizontal.png" alt="金融宣教 · Financial Literacy Education" width="720"/>
+  <img src="assets/logo-horizontal.svg" alt="金融宣教 · financial-literacy-education" width="720"/>
 </div>
 
 # 金融宣教（Financial Literacy Education）
@@ -32,7 +32,7 @@
 
 ```
 ├── SKILL.md                      # 技能主文件：岗位定位、四角色路由、工作流主干、交付规范
-├── _icon.png                     # WorkBuddy / SkillHub 技能图标（512×512）
+├── _icon.png                     # 技能图标（512×512）；SkillHub 卡片图标需在平台端单独上传
 ├── references/
 │   ├── knowledge-base.md         # 六类知识库文档地图、元数据过滤标签、检索与引用规则
 │   ├── role-mechanism.md         # R1 作业规范
@@ -97,6 +97,8 @@ git clone https://github.com/openfcp/financial-literacy-education.git
 ```
 
 **离线包**：`financial-literacy-education.zip`（纯 Skill 目录，不含 `.git`），图标使用根目录 `_icon.png`（512×512 PNG）。发布前确认仓库内不含本地绝对路径、临时数据与未脱敏案例。
+
+**双端发布差异**：GitHub 仓库是完整资源源（含 PNG 位图、SVG 矢量与渲染脚本）。SkillHub 社区源对发布包有文件类型白名单，仅接收 Markdown、SVG 与 Python 文件，因此位图图标不随包上传，需在 SkillHub 网页端的技能设置里单独上传 `_icon.png`；新发布版本还需通过平台内容与安全审核后才会进入搜索索引并可被安装。
 
 ## 图标
 

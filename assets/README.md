@@ -25,7 +25,7 @@
 
 | 文件 | 规格 | 用途 |
 |------|------|------|
-| `../_icon.png` | 512×512 PNG，含中英文名称 | WorkBuddy / SkillHub 技能图标（发布上传用） |
+| `../_icon.png` | 512×512 PNG，含中英文名称 | WorkBuddy 技能图标；SkillHub 卡片图标在平台端单独上传 |
 | `icon.svg` | 512×512 矢量源文件 | 主图标可编辑源文件 |
 | `logo-mark.svg` | 512×512 矢量，纯图形无文字 | 头像、favicon、物料角标 |
 | `logo-horizontal.svg` | 1200×320 矢量，白底横版 | README 页眉、文档抬头、宣传物料落款 |
